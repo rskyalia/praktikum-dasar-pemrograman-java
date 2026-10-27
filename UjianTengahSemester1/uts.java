@@ -1,4 +1,4 @@
-package UjianTengahSemester;
+package UjianTengahSemester1;
 
 import java.util.Scanner;
 public class uts {
