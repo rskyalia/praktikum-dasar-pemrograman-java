@@ -2,7 +2,7 @@ package Jobsheet8.Tugas;
 
 import java.util.Scanner;
 
-public class Tugas3NoAbsen {
+public class Tugas318 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int jumlahToko;
