@@ -7,7 +7,7 @@ public class Tugas2Parkir18 {
         int jenis, durasi, total = 0;
 
         do {
-            System.out.print("Masukkan jenis kendaraan (1 = mobil, 2 = motor, 0 = keluar): ");
+            System.out.print("Masukkan jenis kendaraan (1 = mobil, 2 = motor, 0 = selesai): ");
             jenis = sc.nextInt();
 
             if (jenis == 1 || jenis == 2) {
